@@ -1,3 +1,3 @@
-#Taller #2 HTML y CSS\
+#Taller #3 HTML y CSS\
 #José Manuel Martínez Peñaranda\
 #02220131016
